@@ -1,0 +1,24 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "Proyecto node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zonalez/nodeproj.git"
+  },
+  "author": "Emiliano Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zonalez/nodeproj/issues"
+  },
+  "homepage": "https://github.com/zonalez/nodeproj#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "nodemon": "^2.0.3"
+  }
+}
